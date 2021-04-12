@@ -1,4 +1,4 @@
-# iOS Local Accessibility Project
+# iOS Local Accessibility Exercise Project
 ### iOS 환경에서 지역화와 접근성에 대해 구현 연습해본 프로젝트
 ***
 #### What have I done?
